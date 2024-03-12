@@ -8,6 +8,6 @@ using CSharpFundamentals.C__Fundamentals.IntroductionToC_;
 //ConsoleClass consoleClass = new ConsoleClass();
 //consoleClass.ConsoleDemo();
 
-PrimitiveDatatypes.VariousPrimitiveDatatypes();
+//PrimitiveDatatypes.VariousPrimitiveDatatypes();
 
 #endregion
