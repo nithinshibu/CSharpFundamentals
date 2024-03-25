@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.Extensions.Logging;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,5 +21,6 @@ namespace CSharpFundamentals.C__Fundamentals.IntroductionToC_
     public class Car
     {
         public string CarModel { get; set; } = "";
+       
     }
 }
