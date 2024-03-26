@@ -110,6 +110,21 @@ namespace CSharpFundamentals.C__Fundamentals.OOPS
 		}
 	}
 
+	public class ParseExample
+	{
+		public static void ParseExampleMethod()
+		{
+			string a = "107";
+
+			//int value = int.Parse(a);
+
+			bool result = int.TryParse(a, out int value);
+
+			Console.WriteLine(value);
+
+		}
+	}
+
 	
 	
 }
