@@ -35,12 +35,12 @@ using CSharpFundamentals.C__Fundamentals.OOPS;
 
 
 
-Student s = new Student();
+//Student s = new Student();
 //s.DisplaySubjects("Maths","Physics","Chemistry","Biology","Economics");
 
 
 
-ParseExample.ParseExampleMethod();
+//ParseExample.ParseExampleMethod();
 
 
 //s.PrintGrade();
